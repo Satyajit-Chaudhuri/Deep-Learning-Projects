@@ -1,7 +1,7 @@
 ## Project Name - Gesture Recognition using CNN & RNN architectures.
 
 ## Premise : 
--Gesture recognition can be seen as a way for computers to begin to understand human body language, thus building a better bridge between machines and humans than older text user interfaces or even GUIs (graphical user interfaces), which still limit the majority of input to keyboard and mouse and interact naturally without any mechanical devices. The following research work focuses on devising a neural network architecture that can recognise five different gestures performed by the user. This architecture is then to be employed by a home electronics company which manufactures state of the art smart televisions to help users control the TV without using a remote.
+- Gesture recognition can be seen as a way for computers to begin to understand human body language, thus building a better bridge between machines and humans than older text user interfaces or even GUIs (graphical user interfaces), which still limit the majority of input to keyboard and mouse and interact naturally without any mechanical devices. The following research work focuses on devising a neural network architecture that can recognise five different gestures performed by the user. This architecture is then to be employed by a home electronics company which manufactures state of the art smart televisions to help users control the TV without using a remote.
 
 
 ## Objective: 
